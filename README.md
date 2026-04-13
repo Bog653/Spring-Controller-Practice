@@ -47,8 +47,8 @@ Path: /app/v1/treatment
 * Bean: Contains simple bean implementations and configurations.
 
 ### Example
-To test the API, use Postman to send a GET request to:
-http://localhost:8080/app/v1/barber
+To test the API, use Postman to send a GET request to path:
+../app/v1/barber
 
 Response Example:
 

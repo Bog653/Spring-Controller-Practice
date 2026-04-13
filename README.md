@@ -4,7 +4,7 @@ A simple exercise focused on REST API Request/Response patterns using Spring and
 ### Tech Stack
 
 * Java 21
-* Spring Boot 4.0.5
+* Spring Boot 4.x
 * Postman
 * Maven
 * Lombok
